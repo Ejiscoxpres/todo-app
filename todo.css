@@ -8,14 +8,14 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #e1e3ea;
+  background-color: #3f4e86;
   height: 100vh;
   font-family: sans-serif;
 }
 
 .app {
   margin: 50px;
-  width: 60%;
+  width: 70%;
   
 }
 
